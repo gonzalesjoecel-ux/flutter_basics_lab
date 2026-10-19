@@ -1,6 +1,7 @@
 Github Repository
 
 https://github.com/gonzalesjoecel-ux/flutter_basics_lab.git
+
 The last three build() called lines from Activity 2.
 - The final three build() called lines in the Debug Console in Activity 2 occurred as follows: first, when the application launched and the widget tree was drawn for the first time; second, when I pressed the button and updated _glasses inside setState(), which caused a rebuild; and third, when I pressed the button again for another state change, which caused the widget tree to rebuild once more.
 
